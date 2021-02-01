@@ -1,6 +1,8 @@
 Contributions:
 
-Due to version mismatches, the master code does not work with Ubuntu 18. In this repository, I have made the necessary changes to make it compatible with Ubuntu latest versions. The rest of the procedure remain the same as described by the original creator. Hope it helps someone :)
+Due to version mismatches, the master code does not work with Ubuntu 18. 
+In this repository, I have made the necessary changes to make it compatible with Ubuntu latest versions. 
+The rest of the procedure remain the same as described by the original creator. Hope it helps someone :)
 
 INTRODUCTION
 ------------
